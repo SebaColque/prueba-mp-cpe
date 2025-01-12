@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "cpe": "0000001",
+    "fecha_vto": "20/01/2025",
+    "pagada": "si",
+    "importe": 3
+  },
+  {
+    "id": 2,
+    "cpe": "0000002",
+    "fecha_vto": "21/01/2025",
+    "pagada": "no",
+    "importe": 5
+  },
+  {
+    "id": 3,
+    "cpe": "0000003",
+    "fecha_vto": "24/01/2025",
+    "pagada": "no",
+    "importe": 6
+  },
+  {
+    "id": 4,
+    "cpe": "0000004",
+    "fecha_vto": "24/01/2025",
+    "pagada": "no",
+    "importe": 24
+  },
+  {
+    "id": 5,
+    "cpe": "0000005",
+    "fecha_vto": "22/01/2025",
+    "pagada": "no",
+    "importe": 34
+  },
+  {
+    "id": 6,
+    "cpe": "0000006",
+    "fecha_vto": "22/01/2025",
+    "pagada": "no",
+    "importe": 111
+  },
+  {
+    "id": 7,
+    "cpe": "0000007",
+    "fecha_vto": "28/01/2025",
+    "pagada": "no",
+    "importe": 55
+  }
+]
