@@ -8,6 +8,7 @@ const nextConfig = {
       fullUrl: true,
     },
   },
+  output: "export"
 };
 
 export default nextConfig;
